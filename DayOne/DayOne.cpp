@@ -20,7 +20,7 @@ int sum(int* mas)
 
 int main()
 {
-    std::string path("C:/Users/Maksym/source/repos/Adventofcode/Adventofcode/inputOne.txt");
+    std::string path("inputOne.txt");
 
     std::string line;
 
